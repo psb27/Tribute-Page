@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;;
+}
+
+#main {
+    font-family: 'Josefin Sans',sans-serif;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+#title {
+    background-color:aliceblue;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 25px;
+    text-align: center;
+
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    padding: 25px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#img-caption {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#circle-image {
+    max-width: 50%;
+    height: 50%;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#round-image {
+    border-radius: 50%;
+}
+
+#tribute-info {
+    background-color: aliceblue;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#quotes {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 24px;
+    margin-right: 25px;
+    background-color: #e6f0b9;
+
+}
+
+h3 {
+    margin: 5px;
+}
+
+h4 {
+    margin: 2px;
+}
+
+#links {
+    margin-top: 20px;
+}
+
+#button {
+    padding: 10px;
+    background-color: whitesmoke;
+    text-decoration: none;
+    font-size: 16px;
+    border: 2px solid black;
+}
+
+#tribute-link {
+    text-decoration: none;
+    text-decoration-style: solid;
+}
+
+#button:hover {
+    background-color: lightslategray;
+}
